@@ -2,7 +2,7 @@
   "name": "weather_app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://rohitsharmaj7.github.io/React_Season_App",
+  "homepage":"https://rohitsharmaj7.github.io/React_Season_App/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
